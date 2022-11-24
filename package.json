@@ -20,7 +20,6 @@
 	"devDependencies": {
 		"@playwright/test": "^1.22.2",
 		"@sveltejs/adapter-auto": "next",
-		"@sveltejs/adapter-cloudflare": "^1.0.0-next.31",
 		"@sveltejs/adapter-vercel": "^1.0.0-next.84",
 		"@sveltejs/kit": "next",
 		"autoprefixer": "10.4.5",
